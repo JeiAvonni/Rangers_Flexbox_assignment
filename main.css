@@ -1,0 +1,97 @@
+:root {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    margin: auto;
+    background: #F4EEEE;
+}
+
+ .form-box {
+    align-items: center;
+    justify-content: space-between;
+    width: 640px;
+    height: 387px;
+    display: flex;
+    padding: 15px;
+    padding: 5%;
+    border-radius: 10px;
+    background: #FFFDFD;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+p{ font-size: 10px;
+
+}
+.rectangle2 {
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+   
+  
+}
+.rectangle1 {
+    width: 50%;
+    height: 100%;
+    background: #F4EEEE;
+}
+form { 
+    align-items: space-between;
+    display: flex;
+    flex-direction: column;
+}
+img {
+    width: 100%;
+    height: 100%;
+
+}
+
+/* .img {
+    width: 172px;
+    height: 357px;
+    background: url(<./images/Oval_week1_Day2.png>), lightgray 50% / cover no-repeat;
+    border-style: solid;
+    border-radius: 30px;
+    padding-top: 10%
+}
+.container{
+    flex: center;
+}
+
+
+
+.rectangle1 {
+    width: 991px;
+    height: 561px;
+    background: #F4EEEE;
+}
+
+.rectangle2 {
+    flex-direction: col;
+    width: 637px;
+    height: 387px;
+    border-radius: 30px;
+    background: #FFFDFD;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.rectangle3 {
+    width: 293px;
+    height: 28px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid #B4B3B3;
+    background: #FFFCFC;
+}
+.submit{
+    color: #FFFAFA;
+    font-family: Inter;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+} */ 
